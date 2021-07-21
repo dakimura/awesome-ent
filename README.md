@@ -12,7 +12,7 @@ Please send a PR!
 ## Contents
 
 * [ent/contrib](https://github.com/ent/contrib) - (official) A collection of extensions and tools for ent.
-* [casbin/ent-adapter] - ent adapter for [Casbin](https://github.com/casbin/casbin).
+* [casbin/ent-adapter](https://github.com/casbin/ent-adapter) - ent adapter for [Casbin](https://github.com/casbin/casbin).
 * [Dex](https://github.com/dexidp/dex) - an identity service that uses OpenID Connect to drive authentication for other apps.
 * [Ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency trading bot framework implemented in Go.
 * [beer-shop](https://github.com/go-kratos/beer-shop) - An online shop application, mono-repo microservices demo for kratos.
