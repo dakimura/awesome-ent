@@ -1,5 +1,5 @@
 # Awesome ent
-A curated list of awesome frameworks, libraries and software using ent/ent
+A curated list of awesome frameworks, libraries and software using [ent/ent](https://entgo.io/)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -18,6 +18,8 @@ Please send a PR!
 ## Authentication and OAuth
 
 *Libraries for implementing authentications schemes.*
+
+* [Dex](https://github.com/dexidp/dex) - an identity service that uses OpenID Connect to drive authentication for other apps.
 
 ## Bot Building
 
@@ -93,6 +95,8 @@ Please send a PR!
 
 *Packages for accounting and finance.*
 
+* [Ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency trading bot framework implemented in Go.
+
 ## Forms
 
 *Libraries for working with forms.*
@@ -161,7 +165,7 @@ Please send a PR!
 
 ### Project Layout
 
-_**Unofficial** set of patterns for structuring projects._
+* [beer-shop](https://github.com/go-kratos/beer-shop) - An online shop application, mono-repo microservices demo for kratos.
 
 ### Strings
 
@@ -174,6 +178,8 @@ _**Unofficial** set of patterns for structuring projects._
 ## Natural Language Processing
 
 *Libraries for working with human languages.*
+
+* [fate](https://github.com/godcong/fate) - A tool to create a chinese name.
 
 ## Networking
 
@@ -216,7 +222,7 @@ _**Unofficial** set of patterns for structuring projects._
 
 ## Server Applications
 
-
+* [Direktiv](https://github.com/vorteil/direktiv) - A serverless workflow and automation engine running on Kubernetes and Knative.
 
 ## Stream Processing
 
@@ -298,4 +304,5 @@ _**Unofficial** set of patterns for structuring projects._
 
 ### Tutorials
 * [Facebook の ent を使って簡単なウェブアプリケーションを作る](https://zenn.dev/mattn/articles/c08072b42f7a5cdcd749)
+* [GoのORM「ent」の話](https://zenn.dev/masamiki/articles/83a8db3f132fcb1c48f0)
 
